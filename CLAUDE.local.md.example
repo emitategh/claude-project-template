@@ -1,0 +1,10 @@
+# Local Overrides (gitignored)
+
+Use this file for machine-specific or personal overrides that should not be committed.
+Copy to `CLAUDE.local.md` and edit as needed.
+
+## Examples
+
+- Local dev environment quirks
+- Personal tool preferences
+- Notes about your local setup
